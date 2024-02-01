@@ -1,4 +1,5 @@
 # PSO-VSLAM
+- UAVs path planning by particle swarm optimization based on visual-SLAM algorithm
 
 Unmanned Aerial Vehicles (UAVs) have gained tremendous popularity due to its high mobility in various robotics platforms.
 We use a state-of-the-art visual simultaneous localization and mapping (VSLAM) method to trace the UAV poses while simultaneously
@@ -11,3 +12,21 @@ strategy considering various optimization parameters such as flight risk estimat
 time. The proposed planner attains the high fitness value and reaches the destination safely following the shortest path while avoiding
 all the unexpected hazardous events and restricted areas, which validate the effectiveness of our proposed PSO-VSLAM system as
 depicted by the simulation results.
+
+
+
+
+# Citing this work
+If you are using our implementation, you are encouraged to cite [our paper](https://www.sciencedirect.com/science/article/pii/S221420962030053X).
+``` 
+
+@incollection{mughal2022uavs,
+  title={UAVs path planning by particle swarm optimization based on visual-SLAM algorithm},
+  author={Mughal, Umair Ahmad and Ahmad, Ishtiaq and Pawase, Chaitali J and Chang, KyungHi},
+  booktitle={Intelligent Unmanned Air Vehicles Communications for Public Safety Networks},
+  pages={169--197},
+  year={2022},
+  publisher={Springer}
+}
+
+``` 
