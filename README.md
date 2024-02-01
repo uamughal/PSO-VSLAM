@@ -17,7 +17,7 @@ depicted by the simulation results.
 
 
 # Citing this work
-If you are using our implementation, you are encouraged to cite [our paper](https://www.sciencedirect.com/science/article/pii/S221420962030053X).
+If you are using our implementation, you are encouraged to cite [our paper](https://link.springer.com/chapter/10.1007/978-981-19-1292-4_8).
 ``` 
 
 @incollection{mughal2022uavs,
